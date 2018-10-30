@@ -7,4 +7,4 @@ Flow Chart:
 
 ![flow_python](https://user-images.githubusercontent.com/39982386/47692115-b153d600-dbc2-11e8-9ecf-f380c70dfcb6.PNG)
 
-Note: I'm using a basic laptop camera which clocks upto 29-30fps. Right now, the program approximates the hear-rate in 10 seconds. Increasing the fps would decrese the detection time. Remember, ICA stores data and performs the analysis. So, more data we can gather in little time the better the results. Have to test it using Xbox Kinect (which has good Depth-in Field and resolution)...
+Note: I'm using a basic laptop camera which clocks upto 29-30fps. Right now, the program approximates the hear-rate in 10 seconds. Increasing the fps would decrese the detection time. Remember, ICA stores data and performs the analysis. So, more data we can gather in little time the better the results. Have to test it using Xbox Kinect (good Depth-in Field and resolution). Testing in different light settings. Needs editing and proper identations.
